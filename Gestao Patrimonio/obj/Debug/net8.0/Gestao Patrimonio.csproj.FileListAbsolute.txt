@@ -145,3 +145,6 @@ C:\Users\49078790830\Desktop\Gestao Patrimonio\Gestao Patrimonio\obj\Debug\net8.
 C:\Users\49078790830\Desktop\Gestao Patrimonio\Gestao Patrimonio\obj\Debug\net8.0\Gestao Patrimonio.pdb
 C:\Users\49078790830\Desktop\Gestao Patrimonio\Gestao Patrimonio\obj\Debug\net8.0\Gestao Patrimonio.genruntimeconfig.cache
 C:\Users\49078790830\Desktop\Gestao Patrimonio\Gestao Patrimonio\obj\Debug\net8.0\ref\Gestao Patrimonio.dll
+C:\Users\49078790830\Desktop\Gestao Patrimonio\Gestao Patrimonio\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\49078790830\Desktop\Gestao Patrimonio\Gestao Patrimonio\bin\Debug\net8.0\Sprache.dll
+C:\Users\49078790830\Desktop\Gestao Patrimonio\Gestao Patrimonio\obj\Debug\net8.0\Gestao Patrimonio.sourcelink.json
