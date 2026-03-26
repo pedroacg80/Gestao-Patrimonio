@@ -84,7 +84,9 @@ namespace Gestao_Patrimonio.Applications.Services
                 throw new DomainException("Ja existe uma area cadastrada com esse nome");
             }
 
-            areaBanco.NomeArea = dto.NomeArea; 
+            areaBanco.NomeArea = dto.NomeArea;
+
+            _repository.Atualizar(areaBanco);
         }
     }
 }
