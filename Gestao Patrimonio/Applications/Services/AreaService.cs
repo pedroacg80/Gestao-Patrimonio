@@ -38,7 +38,7 @@ namespace Gestao_Patrimonio.Applications.Services
                 throw new DomainException("Area nao encontrada");
             }
 
-            ListarAreaDto areaDto = new ListarAreaDto()
+            ListarAreaDto areaDto = new ListarAreaDto
             {
                 AreaID = area.AreaID,
                 NomeArea = area.NomeArea
