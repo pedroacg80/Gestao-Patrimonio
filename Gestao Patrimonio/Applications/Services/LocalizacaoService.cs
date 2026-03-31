@@ -1,4 +1,4 @@
-﻿using Gestao_Patrimonio.Applications.Regras;
+﻿    using Gestao_Patrimonio.Applications.Regras;
 using Gestao_Patrimonio.Domains;
 using Gestao_Patrimonio.DTOs.LocalizacaoDto;
 using Gestao_Patrimonio.Exceptions;

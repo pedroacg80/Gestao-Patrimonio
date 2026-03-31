@@ -26,8 +26,7 @@ namespace Gestao_Patrimonio.Repositories
         public Localizacao BuscarPorNome(string nomeLocal, Guid areaId)
         {
 
-            return _context.Localizacao.FirstOrDefault(l => l.NomeLocal.ToLower() == nomeLocal.ToLower() && l.AreaID == areaId
-            );
+            return _context.Localizacao.FirstOrDefault(l => l.NomeLocal.ToLower() == nomeLocal.ToLower() && l.AreaID == areaId);
         }
 
         public void Adicionar(Localizacao localizacao)

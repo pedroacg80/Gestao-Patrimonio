@@ -1,6 +1,6 @@
 ﻿namespace Gestao_Patrimonio.DTOs.CidadeDto
 {
-    public class LerCidadeDto
+    public class ListarCidadeDto
     {
         public Guid CidadeId { get; set; }
         public string NomeCidade { get; set; } = null!;

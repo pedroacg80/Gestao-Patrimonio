@@ -33,7 +33,7 @@ namespace Gestao_Patrimonio.Repositories
             _context.Area.Add(area);
             _context.SaveChanges();
         }
-
+    
         public void Atualizar(Area area)
         {
             if (area == null)
