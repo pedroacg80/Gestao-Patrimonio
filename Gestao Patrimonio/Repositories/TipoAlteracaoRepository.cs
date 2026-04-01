@@ -34,14 +34,14 @@ namespace Gestao_Patrimonio.Repositories
             _context.SaveChanges();
         }
 
-        public void Atualizar(TipoAlteracao tipoAlteracao, Guid id)
+        public void Atualizar (TipoAlteracao tipoAlteracao)
         {
             if (tipoAlteracao == null)
             {
                 return;
             }
 
-            TipoAlteracao tipoAlteracaoBanco = _context.TipoAlteracao.Find(id);
+            TipoAlteracao tipoAlteracaoBanco = _context.TipoAlteracao.FirstOrDefault(ta => ta.TipoAlteracaoID == tipoAlteracao.TipoAlteracaoID);
 
             tipoAlteracaoBanco.NomeTipo = tipoAlteracao.NomeTipo;
 

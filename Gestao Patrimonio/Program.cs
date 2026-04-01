@@ -40,6 +40,10 @@ builder.Services.AddScoped<BairroService>();
 builder.Services.AddScoped<ICidadeRepository, CidadeRepository>();
 builder.Services.AddScoped<CidadeService>();
 
+//Cargos
+builder.Services.AddScoped<ICargoRepository, CargoRepository>();
+builder.Services.AddScoped<CargoService>();
+
 //Enderecos
 builder.Services.AddScoped<IEnderecoRepository, EnderecoRepository>();
 builder.Services.AddScoped<EnderecoService>();
@@ -51,6 +55,10 @@ builder.Services.AddScoped<TipoPatrimonioService>();
 //Tipo Usuario
 builder.Services.AddScoped<ITipoUsuarioRepository, TipoUsuarioRepository>();
 builder.Services.AddScoped<TipoUsuarioService>();
+
+//Tipo Alteracao
+builder.Services.AddScoped<ITipoAlteracaoRepository, TipoAlteracaoRepository>();
+builder.Services.AddScoped<TipoAlteracaoService>();
 
 //Usuario
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
