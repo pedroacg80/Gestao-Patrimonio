@@ -78,14 +78,14 @@ namespace Gestao_Patrimonio.Applications.Services
 
             TipoPatrimonio tipoPatrimonioExistente = _repository.BuscarPorNome(dto.NomeTipo);
 
-            if (tipoPatrimonioBanco != null)
+            if (tipoPatrimonioExistente != null)
             {
                 throw new DomainException("Ja existe um tipo de patrimonio com esse nome");
             }
 
             tipoPatrimonioBanco.NomeTipo = dto.NomeTipo;
 
-            _repository.Atualizar(tipoPatrimonioBanco);
+            _repository.Atualizar(tipoPatrimonioBanco); 
         }
     }
 }

@@ -23,9 +23,21 @@ namespace Gestao_Patrimonio.Repositories
             return _context.Endereco.Find(enderecoId);
         }
 
-        public Endereco BuscarPorLogradouroENumero(string logradouro, int? numero, Guid bairroId)
+        public Endereco BuscarPorLogradouroENumero(string logradouro, int? numero, Guid bairroId, Guid? enderecoId = null)
         {
-            return _context.Endereco.FirstOrDefault(e => e.Logradouro == logradouro && e.Numero == numero && e.BairroID == bairroId);
+            //return _context.Endereco.FirstOrDefault(e => e.Logradouro == logradouro && e.Numero == numero && e.BairroID == bairroId);
+            var consulta = _context.Endereco.AsQueryable();
+
+            if (enderecoId.HasValue)
+            {
+                consulta = consulta.Where(endereco => endereco.EnderecoID != enderecoId.Value);
+            }
+
+            return consulta.FirstOrDefault(endereco =>
+                endereco.Logradouro.ToLower() == logradouro.ToLower() &&
+                endereco.Numero == numero &&
+                endereco.BairroID == bairroId
+            );
         }
 
         public bool BairroExiste(Guid bairroId)

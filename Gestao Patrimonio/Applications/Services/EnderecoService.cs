@@ -81,6 +81,11 @@ namespace Gestao_Patrimonio.Applications.Services
         {
             Validar.ValidarNome(enderecoDto.Logradouro);
 
+            if (!_repository.BairroExiste(enderecoDto.BairroID))
+            {
+                throw new DomainException("Bairro informado não existe.");
+            }
+
             Endereco enderecoExiste = _repository.BuscarPorLogradouroENumero(enderecoDto.Logradouro, enderecoDto.Numero, enderecoDto.BairroID);
 
             if (enderecoExiste != null)

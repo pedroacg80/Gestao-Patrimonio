@@ -49,6 +49,8 @@ builder.Services.AddScoped<ITipoPatrimonioRepository, TipoPatrimonioRepository>(
 builder.Services.AddScoped<TipoPatrimonioService>();
 
 //Tipo Usuario
+builder.Services.AddScoped<ITipoUsuarioRepository, TipoUsuarioRepository>();
+builder.Services.AddScoped<TipoUsuarioService>();
 
 //Usuario
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
