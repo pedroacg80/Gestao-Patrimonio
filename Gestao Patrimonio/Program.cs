@@ -60,6 +60,14 @@ builder.Services.AddScoped<TipoUsuarioService>();
 builder.Services.AddScoped<ITipoAlteracaoRepository, TipoAlteracaoRepository>();
 builder.Services.AddScoped<TipoAlteracaoService>();
 
+//Status Patrimonio
+builder.Services.AddScoped<IStatusPatrimonioRepository, StatusPatrimonioRepository>();
+builder.Services.AddScoped<StatusPatrimonioService>();
+
+//Status Transferencia
+builder.Services.AddScoped<IStatusTransferenciaRepository, StatusTransferenciaRepository>();
+builder.Services.AddScoped<StatusTransferenciaService>();
+
 //Usuario
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<UsuarioService>();
