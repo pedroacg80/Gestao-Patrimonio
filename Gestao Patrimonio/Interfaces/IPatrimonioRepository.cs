@@ -5,7 +5,7 @@ namespace Gestao_Patrimonio.Interfaces
     public interface IPatrimonioRepository
     {
         List<Patrimonio> Listar();
-        Patrimonio BuscarPorId(Guid patrimonioId);
+        Patrimonio BuscarPorId(Guid PatrimonioId);
 
         // fazer esse com AsQueryable igual foi feito no endereço
         Patrimonio BuscarPorNumeroPatrimonio(string numeroPatrimonio, Guid? patrimonioId = null);

@@ -56,26 +56,26 @@ namespace Gestao_Patrimonio.Applications.Services
             return enderecoDto;
         }
 
-        public ListarEnderecoDto BuscarPorLogradouroENumero(string logradouro, int? numero, Guid bairroId)
-        {
-            Endereco endereco = _repository.BuscarPorLogradouroENumero(logradouro, numero, bairroId);
+        //public ListarEnderecoDto BuscarPorLogradouroENumero(string logradouro, int? numero, Guid bairroId)
+        //{
+        //    Endereco endereco = _repository.BuscarPorLogradouroENumero(logradouro, numero, bairroId);
 
-            if (endereco == null)
-            {
-                throw new DomainException("Endereco nao encontrado");
-            }
+        //    if (endereco == null)
+        //    {
+        //        throw new DomainException("Endereco nao encontrado");
+        //    }
 
-            ListarEnderecoDto enderecoDto = new ListarEnderecoDto
-            {
-                Logradouro = endereco.Logradouro,
-                Numero = endereco.Numero,
-                Complemento = endereco.Complemento,
-                CEP = endereco.CEP,
-                BairroID = endereco.BairroID
-            };
+        //    ListarEnderecoDto enderecoDto = new ListarEnderecoDto
+        //    {
+        //        Logradouro = endereco.Logradouro,
+        //        Numero = endereco.Numero,
+        //        Complemento = endereco.Complemento,
+        //        CEP = endereco.CEP,
+        //        BairroID = endereco.BairroID
+        //    };
 
-            return enderecoDto;
-        }
+        //    return enderecoDto;
+        //}
 
         public void Adicionar(CriarEnderecoDto enderecoDto)
         {
