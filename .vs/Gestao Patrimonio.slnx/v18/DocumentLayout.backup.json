@@ -3,72 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\dtos\\autenticacaodto\\trocarprimeirasenhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\dtos\\autenticacaodto\\trocarprimeirasenhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\dtos\\autenticacaodto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\dtos\\autenticacaodto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\dtos\\autenticacaodto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\dtos\\autenticacaodto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\repositories\\logpatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\repositories\\logpatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\autenticacao\\criptografiausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\autenticacao\\criptografiausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\interfaces\\ilogpatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\interfaces\\ilogpatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\services\\logpatrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\services\\logpatrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\controllers\\logpatrimoniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\controllers\\logpatrimoniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\controllers\\autenticacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\services\\autenticacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\regras\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\regras\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\services\\patrimonioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\autenticacao\\geradortokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\autenticacao\\geradortokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\contexts\\gestaopatrimonioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\contexts\\gestaopatrimonioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\applications\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\applications\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\interfaces\\ipatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\interfaces\\ipatrimoniorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\dtos\\patrimoniodto\\listarpatrimoniodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\dtos\\patrimoniodto\\listarpatrimoniodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|c:\\users\\49078790830\\desktop\\gestao patrimonio\\gestao patrimonio\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41E484B7-2F16-B5BD-A66E-0DE7710D9C2A}|Gestao Patrimonio\\Gestao Patrimonio.csproj|solutionrelative:gestao patrimonio\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,24 +54,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogPatrimonioController.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\LogPatrimonioController.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Controllers\\LogPatrimonioController.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\LogPatrimonioController.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Controllers\\LogPatrimonioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:31:35.059Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogPatrimonioService.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\LogPatrimonioService.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Services\\LogPatrimonioService.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\LogPatrimonioService.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Services\\LogPatrimonioService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:17:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogPatrimonioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Repositories\\LogPatrimonioRepository.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Repositories\\LogPatrimonioRepository.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Repositories\\LogPatrimonioRepository.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Repositories\\LogPatrimonioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:03:58.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogPatrimonioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Interfaces\\ILogPatrimonioRepository.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Interfaces\\ILogPatrimonioRepository.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Interfaces\\ILogPatrimonioRepository.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Interfaces\\ILogPatrimonioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T12:59:19.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T12:46:19.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutenticacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\AutenticacaoController.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Controllers\\AutenticacaoController.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\AutenticacaoController.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Controllers\\AutenticacaoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wDgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:59:24.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Validar.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:43:48.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutenticacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\AutenticacaoService.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Services\\AutenticacaoService.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\AutenticacaoService.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Services\\AutenticacaoService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:25:47.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeradorTokenJwt.cs",
+              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Autenticacao\\GeradorTokenJwt.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T11:10:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\appsettings.json",
               "RelativeDocumentMoniker": "Gestao Patrimonio\\appsettings.json",
               "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\appsettings.json",
               "RelativeToolTip": "Gestao Patrimonio\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-06T13:45:21.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": ".env.example",
               "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\.env.example",
               "RelativeDocumentMoniker": "Gestao Patrimonio\\.env.example",
@@ -103,199 +197,7 @@
               "RelativeToolTip": "Gestao Patrimonio\\.env.example",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-06T13:44:34.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\.env",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\.env",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\.env",
-              "RelativeToolTip": "Gestao Patrimonio\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-06T13:41:50.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TrocarPrimeiraSenhaDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TrocarPrimeiraSenhaDto.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TrocarPrimeiraSenhaDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TrocarPrimeiraSenhaDto.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TrocarPrimeiraSenhaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T13:40:20.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TokenDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TokenDto.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TokenDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TokenDto.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\DTOs\\AutenticacaoDto\\TokenDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T13:38:03.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\AutenticacaoDto\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\DTOs\\AutenticacaoDto\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\AutenticacaoDto\\LoginDto.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\DTOs\\AutenticacaoDto\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T13:36:20.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CriptografiaUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Autenticacao\\CriptografiaUsuario.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Autenticacao\\CriptografiaUsuario.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Autenticacao\\CriptografiaUsuario.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Autenticacao\\CriptografiaUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T11:50:22.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwE8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T11:19:22.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAcwMYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T11:10:12.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAkwI0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T11:09:34.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T11:07:36.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GestaoPatrimoniosContext.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Contexts\\GestaoPatrimoniosContext.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Contexts\\GestaoPatrimoniosContext.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Contexts\\GestaoPatrimoniosContext.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Contexts\\GestaoPatrimoniosContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T13:32:59.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EnderecoService.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\EnderecoService.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Services\\EnderecoService.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\EnderecoService.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Services\\EnderecoService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwFEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T13:29:18.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Validar.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Regras\\Validar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T13:16:53.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ListarPatrimonioDto.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\DTOs\\PatrimonioDto\\ListarPatrimonioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T13:05:46.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PatrimonioService.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\PatrimonioService.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Applications\\Services\\PatrimonioService.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Applications\\Services\\PatrimonioService.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Applications\\Services\\PatrimonioService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T13:04:45.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IPatrimonioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Interfaces\\IPatrimonioRepository.cs",
-              "RelativeDocumentMoniker": "Gestao Patrimonio\\Interfaces\\IPatrimonioRepository.cs",
-              "ToolTip": "C:\\Users\\49078790830\\Desktop\\Gestao Patrimonio\\Gestao Patrimonio\\Interfaces\\IPatrimonioRepository.cs",
-              "RelativeToolTip": "Gestao Patrimonio\\Interfaces\\IPatrimonioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T11:51:23.202Z"
+              "WhenOpened": "2026-04-06T13:44:34.613Z"
             }
           ]
         }

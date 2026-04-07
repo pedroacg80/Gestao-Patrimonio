@@ -8,7 +8,7 @@ namespace Gestao_Patrimonio.Applications.Regras
         {
             if (string.IsNullOrEmpty(nome))
             {
-                throw new DomainException("Nome eh obrigatorio");
+                throw new DomainException("Nome é obrigatório");
             }
         }
         
@@ -16,7 +16,7 @@ namespace Gestao_Patrimonio.Applications.Regras
         {
             if (string.IsNullOrEmpty(numeroPatrimonio))
             {
-                throw new DomainException("Numero patrimonio eh obrigatorio");
+                throw new DomainException("Numero patrimonio é obrigatório");
             }
         }
 
@@ -24,7 +24,7 @@ namespace Gestao_Patrimonio.Applications.Regras
         {
             if (string.IsNullOrEmpty(nif))
             {
-                throw new DomainException("NIF eh obriatorio");
+                throw new DomainException("NIF é obrigatório");
             }
         }
 
@@ -32,7 +32,7 @@ namespace Gestao_Patrimonio.Applications.Regras
         {
             if (string.IsNullOrEmpty(cpf))
             {
-                throw new DomainException("CPF eh obrigatorio");
+                throw new DomainException("CPF é obrigatório");
             }
         }
 
@@ -40,7 +40,15 @@ namespace Gestao_Patrimonio.Applications.Regras
         {
             if (string.IsNullOrEmpty(email))
             {
-                throw new DomainException("Email eh obrigatorio");
+                throw new DomainException("Email é obrigatório");
+            }
+        }
+
+        public static void ValidarSenha(string senha)
+        {
+            if (string.IsNullOrEmpty(senha))
+            {
+                throw new DomainException("Senha é obrigatória");
             }
         }
         
