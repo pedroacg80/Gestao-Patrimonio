@@ -1,4 +1,4 @@
-﻿]using Gestao_Patrimonio.Applications.Services;
+﻿using Gestao_Patrimonio.Applications.Services;
 using Gestao_Patrimonio.DTOs.LogPatrimonioDto;
 using Gestao_Patrimonio.Exceptions;
 using Microsoft.AspNetCore.Authorization;

@@ -11,7 +11,15 @@ namespace Gestao_Patrimonio.Applications.Regras
                 throw new DomainException("Nome é obrigatório");
             }
         }
-        
+
+        public static void ValidarEstado(string estado)
+        {
+            if (string.IsNullOrEmpty(estado))
+            {
+                throw new DomainException("Nome é obrigatório");
+            }
+        }
+
         public static void ValidarNumeroPatrimonio(string numeroPatrimonio)
         {
             if (string.IsNullOrEmpty(numeroPatrimonio))
